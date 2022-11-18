@@ -34,6 +34,7 @@ int IndexOf(int[] collection, int find)
         }
         index++;
     }
+    Console.WriteLine("");
     return position;
 }
 
